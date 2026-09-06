@@ -7,3 +7,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Scratch files produced when running the seminar notebook
+/seminars/temp.py
+/seminars/tmp/
