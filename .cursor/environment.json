@@ -1,0 +1,17 @@
+{
+  "name": "bmstu-python course",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "jupyterlab",
+      "command": "source .venv/bin/activate && jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --ServerApp.token='' --ServerApp.password='' --ServerApp.root_dir=.",
+      "description": "JupyterLab server for the lecture, seminar and lab notebooks (http://localhost:8888/lab)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "jupyterlab",
+      "port": 8888
+    }
+  ]
+}

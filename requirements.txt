@@ -1,0 +1,12 @@
+# Development dependencies for the "Алгоритмизация и программирование" course materials.
+# Provides the Jupyter environment used to run the seminar and lab notebooks,
+# plus the couple of third-party packages the notebooks reference directly.
+
+jupyterlab==4.6.3
+notebook==7.6.2
+ipykernel==7.3.0
+nbconvert==7.17.1
+
+# Referenced from seminars/01_intro.ipynb
+cffi==2.1.1
+flake8==7.3.0
