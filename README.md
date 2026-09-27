@@ -12,6 +12,7 @@
 1. [Введение в язык Python](seminars/01_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/01_intro.ipynb)
 2. [Условные операторы, циклы](seminars/02_conditionals_loop.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/02_conditionals_loop.ipynb)
 3. [Списки и сортировка](seminars/03_list.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/03_list.ipynb)
+4. [Вложенные списки, генераторы, кортежи и словарь](seminars/04_nested_list.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/04_nested.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
