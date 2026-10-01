@@ -7,3 +7,6 @@
 2. Блок-схемы 
    - [В формате MarkDown](02_lecture.md)
    - [В формате pdf](02_lecture.pdf)
+3. Элементы алгебры логики (лекция 1.3)
+   - [В формате MarkDown](03_lecture.md)
+   - [В формате pdf](03_lecture.pdf)
