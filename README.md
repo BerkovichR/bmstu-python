@@ -23,3 +23,5 @@
    - В формате pdf [ЛР-1.pdf](labs/lab_01/%D0%9B%D0%A0-1.pdf)
 2. Лабораторная работа No2. 
    - В формате pdf [ЛР-2.pdf](labs/lab_02/%D0%9B%D0%A0-2.pdf)
+
+[Инструкция для Chrome при некорректном отображении Markdown](MarkdownViewer.md)
