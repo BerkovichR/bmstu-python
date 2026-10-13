@@ -17,6 +17,7 @@
 3. [Списки и сортировка](seminars/03_list.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/03_list.ipynb)
 4. [Вложенные списки, генераторы, кортежи](seminars/04_nested_list.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/04_nested_list.ipynb)
 5. [Словари, множества и строки](seminars/05_dict_set.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/05_dict_set.ipynb)
+6. [Строки и функции](seminars/06_strings_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/06_strings_functions.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
