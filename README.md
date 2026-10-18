@@ -10,6 +10,9 @@
 3. Элементы алгебры логики (лекция 1.3)
    - [В формате MarkDown](lectures/03_lecture.md)
    - [В формате pdf](lectures/03_lecture.pdf)
+4. Функции
+   - [В формате MarkDown](lectures/04_lecture.md)
+   - [В формате pdf](lectures/04_lecture.pdf)
 
 [Семинары](seminars/README.md)
 1. [Введение в язык Python](seminars/01_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/01_intro.ipynb)
@@ -18,6 +21,7 @@
 4. [Вложенные списки, генераторы, кортежи](seminars/04_nested_list.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/04_nested_list.ipynb)
 5. [Словари, множества и строки](seminars/05_dict_set.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/05_dict_set.ipynb)
 6. [Строки и функции](seminars/06_strings_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/06_strings_functions.ipynb)
+7. [Функции](seminars/07_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/07_functions.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 

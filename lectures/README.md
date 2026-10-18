@@ -10,3 +10,6 @@
 3. Элементы алгебры логики (лекция 1.3)
    - [В формате MarkDown](03_lecture.md)
    - [В формате pdf](03_lecture.pdf)
+4. Функции
+   - [В формате MarkDown](04_lecture.md)
+   - [В формате pdf](04_lecture.pdf)
