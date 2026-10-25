@@ -22,6 +22,7 @@
 5. [Словари, множества и строки](seminars/05_dict_set.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/05_dict_set.ipynb)
 6. [Строки и функции](seminars/06_strings_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/06_strings_functions.ipynb)
 7. [Функции](seminars/07_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/07_functions.ipynb)
+8. [Итераторы и генераторы](seminars/08_iterators_generators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/08_iterators_generators.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
