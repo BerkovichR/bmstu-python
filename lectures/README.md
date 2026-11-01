@@ -13,3 +13,6 @@
 4. Функции
    - [В формате MarkDown](04_lecture.md)
    - [В формате pdf](04_lecture.pdf)
+5. Представление информации в ЭВМ
+   - [В формате MarkDown](05_lecture.md)
+   - [В формате pdf](05_lecture.pdf)

@@ -10,3 +10,4 @@
 6. [Строки и функции](06_strings_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/06_strings_functions.ipynb)
 7. [Функции](07_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/07_functions.ipynb)
 8. [Итераторы и генераторы](08_iterators_generators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/08_iterators_generators.ipynb)
+9. [Функциональное программирование](09_functional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/09_functional.ipynb)

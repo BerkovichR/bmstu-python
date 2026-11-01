@@ -13,6 +13,9 @@
 4. Функции
    - [В формате MarkDown](lectures/04_lecture.md)
    - [В формате pdf](lectures/04_lecture.pdf)
+5. Представление информации в ЭВМ
+   - [В формате MarkDown](lectures/05_lecture.md)
+   - [В формате pdf](lectures/05_lecture.pdf)
 
 [Семинары](seminars/README.md)
 1. [Введение в язык Python](seminars/01_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/01_intro.ipynb)
@@ -23,6 +26,7 @@
 6. [Строки и функции](seminars/06_strings_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/06_strings_functions.ipynb)
 7. [Функции](seminars/07_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/07_functions.ipynb)
 8. [Итераторы и генераторы](seminars/08_iterators_generators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/08_iterators_generators.ipynb)
+9. [Функциональное программирование](seminars/09_functional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/09_functional.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
