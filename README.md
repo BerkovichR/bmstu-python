@@ -27,6 +27,7 @@
 7. [Функции](seminars/07_functions.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/07_functions.ipynb)
 8. [Итераторы и генераторы](seminars/08_iterators_generators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/08_iterators_generators.ipynb)
 9. [Функциональное программирование](seminars/09_functional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/09_functional.ipynb)
+10. [Модули](seminars/seminar_10/10_modules.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/seminar_10/10_modules.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
