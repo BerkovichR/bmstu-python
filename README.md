@@ -16,6 +16,8 @@
 5. Представление информации в ЭВМ
    - [В формате MarkDown](lectures/05_lecture.md)
    - [В формате pdf](lectures/05_lecture.pdf)
+6. Архитектура персонального компьютера
+   - [В формате MarkDown](lectures/06_lecture.md)
 
 [Семинары](seminars/README.md)
 1. [Введение в язык Python](seminars/01_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/01_intro.ipynb)
@@ -28,6 +30,8 @@
 8. [Итераторы и генераторы](seminars/08_iterators_generators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/08_iterators_generators.ipynb)
 9. [Функциональное программирование](seminars/09_functional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/09_functional.ipynb)
 10. [Модули](seminars/seminar_10/10_modules.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/seminar_10/10_modules.ipynb)
+11. [NumPy: одномерные массивы](seminars/seminar_11/11_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/seminar_11/11_numpy.ipynb)
+12. [NumPy: двумерные массивы](seminars/seminar_12/12_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BerkovichR/bmstu-python/blob/main/seminars/seminar_12/12_numpy.ipynb)
 
 [Лабораторные работы](labs/README.md)
 1. Лабораторная работа No1. 
